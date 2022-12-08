@@ -1,0 +1,30 @@
+@charset "UTF 8";
+
+@media screen and (max-width: 500px) {
+
+    body,html {
+        width: 100vw;
+        height: 1000px;
+    }
+    #card {
+        display: flex;
+        flex-direction: column;
+        width: 300px;
+        height: 1050px;
+        margin-top: 250px; 
+    }
+
+    section > div {
+        height: 350px;
+    }
+
+    #column-2 > button {
+        margin-top: -1px;
+    }
+ 
+    
+}
+
+
+
+    
